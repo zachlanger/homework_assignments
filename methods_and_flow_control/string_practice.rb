@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-sentance = 'this is a string to practice with'
+sentance = 'This is a string to practice with'
 puts sentance
 puts sentance.capitalize
 puts sentance.upcase
