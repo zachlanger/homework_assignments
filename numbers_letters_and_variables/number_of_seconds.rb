@@ -16,5 +16,5 @@ puts 'That means there are:'
 puts "  #{second_per_minute*minute_per_hour} seconds in an hour,"
 puts "  #{second_per_minute*minute_per_hour*hour_per_day} seconds in a day,"
 puts "  #{second_per_minute*minute_per_hour*hour_per_day*day_per_week} seconds in a week"
-puts "That means when yoou turn 20, you've been alive for #{second_per_twenty} seconds,"
+puts "That means when you turn 20, you've been alive for #{second_per_twenty} seconds,"
 puts "and if you make it to 100, you will  have lived #{seconds_per_hundred} seconds. Make them count!"
